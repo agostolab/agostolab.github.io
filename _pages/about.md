@@ -14,7 +14,8 @@ redirect_from:
 }
 </style>
 
-Department of Physiology & Biophysics and Department of Ophthalmology & Visual Sciences<br>
+Department of Physiology & Biophysics<br>
+Department of Ophthalmology & Visual Sciences<br>
 Retina and Optic Nerve Research Laboratory<br>
 Dalhousie University<br>
 
