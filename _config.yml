@@ -92,7 +92,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   : "BCs.jpg"
+teaser                   : "previewimage.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
