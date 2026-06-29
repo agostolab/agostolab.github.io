@@ -129,6 +129,7 @@
 {% endif %}
 
 {% if site.og_image %}
+  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" }}">
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
